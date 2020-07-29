@@ -11,3 +11,7 @@ For VSCode with Markdown Preview Enchanced extension
 4. Write your slides in markdown according to this [doc](https://rawgit.com/shd101wyy/markdown-preview-enhanced/master/docs/presentation-intro.html)
 5. On preview side click right mouse button and select `HTML` > `HTML (offline)`
 6. That all, you get html with your slides
+
+## Examples
+
+https://martyns0n.github.io/slides/
