@@ -14,5 +14,6 @@ For VSCode with Markdown Preview Enchanced extension
 
 ## Examples
 
-- [Исследование ритмов бодрости](https://martyns0n.github.io/slides/rhythm-study/index.html)
-- [Ведение дневника для тех, кто оставил это тринадцатилетним девочкам](https://martyns0n.github.io/slides/diary-for-13-years-old-girls/index.html)
+- [Исследование ритмов бодрости](https://m0rtyn.github.io/slides/rhythm-study/index.html)
+- [Ведение дневника для тех, кто оставил это тринадцатилетним девочкам](https://m0rtyn.github.io/slides/diary-for-13-years-old-girls/index.html)
+- [Testosterone Driven Development](https://m0rtyn.github.io/slides/testosterone-driven-development/index.html)
